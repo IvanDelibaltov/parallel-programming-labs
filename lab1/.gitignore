@@ -1,0 +1,19 @@
+# Compiled files
+*.exe
+*.obj
+*.o
+
+# Data files (generated)
+data/*.txt
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
