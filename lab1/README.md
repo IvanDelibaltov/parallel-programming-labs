@@ -62,7 +62,8 @@ N (размер матрицы)	Время (сек)	Производительн
 ## Графики
 
 ### Время выполнения
-![Time plot](images/time_plot.png)
+<img width="983" height="902" alt="time_plot" src="https://github.com/user-attachments/assets/44ee1cdf-cb06-47a5-baaa-306c0c289be2" />
+
 
 ### Производительность
 ![GFLOPS plot](images/gflops_plot.png)
