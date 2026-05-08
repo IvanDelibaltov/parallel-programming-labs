@@ -62,7 +62,7 @@ N (размер матрицы)	Время (сек)	Производительн
 ## Графики
 
 ### Время выполнения
-<img width="983" height="902" alt="time_plot" src="https://github.com/user-attachments/assets/44ee1cdf-cb06-47a5-baaa-306c0c289be2" />
+<img width="983" height="902" alt="image" src="https://github.com/user-attachments/assets/5f34fd2e-3b6f-4653-806e-cffee2d778f1" />
 
 
 ### Производительность
