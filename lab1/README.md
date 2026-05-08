@@ -66,7 +66,8 @@ N (размер матрицы)	Время (сек)	Производительн
 
 
 ### Производительность
-![GFLOPS plot](images/gflops_plot.png)
+
+<img width="920" height="900" alt="gflops_plot" src="https://github.com/user-attachments/assets/155c3817-2698-469b-b91f-8e0275c3f54f" />
 
 Анализ результатов
 Временна́я сложность
