@@ -27,11 +27,9 @@
 ```batch
 build.bat
 2. Запуск верификации (проверка правильности)
-batch
 cd scripts
 test_verification.bat
 3. Запуск бенчмарка (измерение производительности)
-batch
 benchmark.bat```
 
 Результаты верификации
