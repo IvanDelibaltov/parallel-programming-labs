@@ -241,10 +241,17 @@ All experiments completed
 | 1200 | 1.78× | 3.10× | 4.85× |
 | 1600 | 1.70× | 3.03× | 4.92× |
 | 2000 | 1.78× | 3.13× | 3.72× |
-Графики
-https://images/omp_plots.png
 
-Вывод
+
+##Графики
+Графики времени и ускорения 
+<img width="982" height="923" alt="image" src="https://github.com/user-attachments/assets/d6f264de-803a-4e5a-a38d-bfa1451adc60" />
+<img width="909" height="903" alt="image" src="https://github.com/user-attachments/assets/6f657b9e-31bf-4fec-8751-3ec2cb7e859a" />
+Тепловая карта производительности
+<img width="1719" height="937" alt="image" src="https://github.com/user-attachments/assets/068fc424-6bce-47ba-9261-eeec9ca63368" />
+
+
+##Вывод
 Программа демонстрирует эффективное распараллеливание: ускорение растёт с увеличением числа потоков и размера матрицы.
 
 Для малых матриц (200×200) накладные расходы OpenMP заметны, но ускорение достигает 3×.
