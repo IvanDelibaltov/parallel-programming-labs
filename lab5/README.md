@@ -33,7 +33,6 @@
 ## Как запускать на суперкомпьютере
 
 ### 0. Загрузка модулей
-```bash
 module load intel/mpi4
 module load intel/icc18
 1. Компиляция
